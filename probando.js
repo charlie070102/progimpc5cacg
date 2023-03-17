@@ -1,11 +1,3 @@
-let edad = 30
+let edad = 30;
 
-
-
-
-console.log( edad )
-
-
-
-
-df
+console.log(edad);
